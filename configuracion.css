@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    font-size: 10px;
+font-family: 'Merriweather', serif;
+font-family: 'Yantramanav', sans-serif;
+}
+
+:root{
+    --green_1:rgb(161, 167, 253);
+    --color_txt:rgb(28, 28, 29);
+    --titulo:rgb(27, 9, 194);
+
+
+    --Titulo_h1:2.8rem;
+    --titulo_h2:1.4rem;
+
+
+}
